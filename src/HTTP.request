@@ -1,0 +1,13 @@
+###
+
+POST http://localhost:3000/courses/handle-action-trash-form
+Content-Type: application/json;
+
+{
+     "courseIds": [
+        "64429eb6fd6dfea967ebdfb0",
+         "64429ec5fd6dfea967ebdfb5"
+     ]
+}
+
+###
